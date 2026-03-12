@@ -1,2 +1,2 @@
 -- made by corex (@611v on discord)
-loadstring(game:HttpGet('https://pastefy.app/XJWtnk4p/raw'))()
+loadstring(game:HttpGet('https://pastefy.app/MqqxjJ1k/raw'))()
